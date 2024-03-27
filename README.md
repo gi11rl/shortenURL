@@ -12,28 +12,15 @@
 
 ## install project
 ```bash
-<<<<<<< HEAD
 git clone <본인repository>
-=======
-    git clone <본인repository>
->>>>>>> 1df3a1a (readme 코드블럭 수정)
 ```
 
 ### install dependency
 ```bash
-<<<<<<< HEAD
 pip install "fastapi[all]"
-=======
-    pip install "fastapi[all]"
->>>>>>> 1df3a1a (readme 코드블럭 수정)
 ```
 
 ## run app
 ```bash
-<<<<<<< HEAD
 uvicorn main:app --reload
 ```
-=======
-    uvicorn main:app --reload
-```
->>>>>>> 1df3a1a (readme 코드블럭 수정)
